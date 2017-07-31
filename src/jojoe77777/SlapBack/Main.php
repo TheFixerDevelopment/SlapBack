@@ -3,7 +3,7 @@
 namespace jojoe77777\SlapBack;
 
 use pocketmine\event\Listener;
-use pocketmine\network\mcpe\protocol\AnimatePacket;
+use pocketmine\network\protocol\AnimatePacket;
 use pocketmine\plugin\PluginBase;
 use slapper\entities\SlapperHuman;
 use slapper\events\SlapperHitEvent;
